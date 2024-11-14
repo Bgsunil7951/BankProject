@@ -1,3 +1,5 @@
 public class Bank {
-    fdsdfghadd
+    public static void main(String[] args) {
+        
+    }
 }
